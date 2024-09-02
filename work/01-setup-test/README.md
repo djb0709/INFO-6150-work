@@ -1,8 +1,8 @@
 # Assignment - Testing node and git
 
-**Due: $SENPAI_DUE_DATE_01** 
+**Due: Wed Sep 11, 11:59pm PT** 
 
-EXCEPTION: If you joined the class after the first week, you will need to complete this assignment but the due date is $SENPAI_DUE_DATE_02, same as the second assignment.  I highly encourage you complete this assignment as soon as possible, and as a courtesy to the TA, mention in the PR description that you joined the class late.
+EXCEPTION: If you joined the class after the first week, you will need to complete this assignment but the due date is Wed Sep 18, 11:59pm PT, same as the second assignment.  I highly encourage you complete this assignment as soon as possible, and as a courtesy to the TA, mention in the PR description that you joined the class late.
 
 ## Goal
 
