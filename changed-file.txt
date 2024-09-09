@@ -1,5 +1,6 @@
 hello class
-
+nihao class
+change the file look the status in the git bash
 
 
 
