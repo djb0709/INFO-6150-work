@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+
+}
+
+#homepage {
+    background-color: plum;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: auto 1fr auto;
+
+    grid-template-areas:
+        "header header"
+        "sidenav main"
+        "footer footer"
+    ;
+
+}
+
+header {
+    grid-area: header;
+}
+
+
+
+
+.primary-nav .menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+.primary-nav .menu li a {
+    display: inline-block;
+    padding: 15px 20px;
+    font-weight: bold;
+}
+
+.primary-nav .menu li a:hover {
+    background-color: rebeccapurple;
+    color: #fff;
+}
+
+
+
+.local-menu {
+    background-color: pink;
+    grid-area: sidenav;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-right: 1px solid black;
+
+}
+
+.local-menu ul li {
+    margin: 16px 0px 20px 16px;
+}
+
+.local-menu ul li a {
+    font-weight: bold;
+    display: block;
+    padding: 10px;
+    width: 100%;
+}
+
+.local-menu ul li a:hover {
+    background-color: plum;
+
+}
+
+main {
+    grid-area: main;
+    background-color: pink;
+    padding: 20px;
+}
+
+main p {
+    margin: 20px;
+}
+
+
+footer {
+    grid-area: footer;
+    padding: 10px;
+
+}
+
+footer a:hover {
+    background-color: rebeccapurple;
+    color: #fff;
+    padding: 5px;
+}
