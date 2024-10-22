@@ -1,0 +1,50 @@
+#licenses for images used in this project
+1.
+-Icon: logo.jpg
+-Source:unsplash-free images: https://unsplash.com/illustrations/a-gray-cat-with-big-eyes-sitting-down-vsZKMrJaybA
+-License:The Unsplash+ license allows users to download and use images for a wide range of purposes, including both commercial and non-commercial uses. 
+2.
+-Icon:menu-svg(in html)
+-Source: Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com                    
+-License:License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.
+
+3.
+-Icon:cat-favicon.svg
+-Source: Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com                    
+-License:License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.
+
+4.
+-Icon:cat-abyssinian.jpg
+-Source:https://unsplash.com/photos/brown-tabby-cat-with-white-eyes-7i0FG_jFyuo
+-License:-License:The Unsplash license allows users to download and use images for a wide range of purposes, including both commercial and non-commercial uses. 
+
+5.
+-Icon:cat-bengal.jpg
+-Source:https://unsplash.com/photos/brown-tabby-cat-on-white-textile-cjJYr-m2H9U
+-License:-License:The Unsplash license allows users to download and use images for a wide range of purposes, including both commercial and non-commercial uses. 
+
+6.
+-Icon:cat-eu-shorthair.jpg
+-Source:https://unsplash.com/photos/black-and-white-cat-on-white-textile-G6ZTlMrR014
+-License:-License:The Unsplash license allows users to download and use images for a wide range of purposes, including both commercial and non-commercial uses. 
+
+7.
+-Icon:cat-exotic-shorthair.jpg
+-Source:https://unsplash.com/photos/orange-tabby-kitten-Kc_4NutJIV4
+-License:-License:The Unsplash license allows users to download and use images for a wide range of purposes, including both commercial and non-commercial uses. 
+
+8.
+-Icon:cat-maine-coon.jpg
+-Source:https://unsplash.com/photos/brown-tabby-cat-lying-on-brown-textile-rayvpOMVwJM
+-License:-License:The Unsplash license allows users to download and use images for a wide range of purposes, including both commercial and non-commercial uses. 
+
+9.
+-Icon:cat-siamese.jpg
+-Source:https://unsplash.com/s/visual/0beb1444-fd70-4b53-b68a-77973acb230c
+-License:-License:The Unsplash license allows users to download and use images for a wide range of purposes, including both commercial and non-commercial uses. 
+
+10.
+-Icon:cat-sphynx.jpg
+-Source:https://unsplash.com/photos/orange-tabby-cat-lying-on-black-and-white-nike-athletic-shoes-K2FaxPRLdQ8
+-License:-License:The Unsplash license allows users to download and use images for a wide range of purposes, including both commercial and non-commercial uses. 
+
