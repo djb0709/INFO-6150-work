@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat World-Homepage</title>
+    <link rel="stylesheet" href="./index.css">
+    <script defer src="./dropdown.js"></script>
+    <script defer src="./index.js"></script>
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="logo-container">
+            <a href="./index.html" class="logo-link">
+                <img src="./images/logo-cat.jpg" alt="a cat wear a sunglasses" class="logo-img">
+            </a>
+        </div>
+        <h1 class="header-title">Cat World--Homepage</h1>
+    </header>
+    <nav class="header-nav">
+        <ul class="header-menu">
+            <li class="header-menu-items">
+                <button type="button" class="header-menu-name">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="menu-svg">
+                        <!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com 
+                                                                    License - https://fontawesome.com/license/free 
+                                                                    Copyright 2024 Fonticons, Inc.-->
+                        <path fill="#ffffff"
+                            d="M0 96C0 78.3 14.3 64 32 64l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 128C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32l384 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 288c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32L32 448c-17.7 0-32-14.3-32-32s14.3-32 32-32l384 0c17.7 0 32 14.3 32 32z" />
+                    </svg>
+                    Menu
+                </button>
+                <ul class="header-submenu">
+                    <li class="header-submenu-items"><a href="./index.html" tabindex="-1">HomePage</a></li>
+                    <li class="header-submenu-items"><a href="./about.html" tabindex="-1">About us</a></li>
+                    <li class="header-submenu-items"><a href="./register.html" tabindex="-1">Register</a></li>
+                </ul>
+            </li>
+
+        </ul>
+    </nav>
+    <main class="site-main">
+
+        <div class="cards">
+            <div class="form-card">
+                <h2 class="form-h2">Register</h2>
+                <form action="/register" method="post" class="register-form">
+                    <span class="notice-info">
+                        Notice! All the *
+                        <!-- <span class="required">*</span> -->
+                        means required
+                        field</span>
+
+
+                    <div class="normal-form-style">
+                        <label for="name">
+                            <!-- <span class="required">*</span> -->
+                            *Name:
+                            <span class="signup-error signup-error-name"></span>
+                        </label>
+                        <input type="text" id="name" name="name">
+
+
+                        <label for="email">
+                            <!-- <span class="required">*</span> -->
+                            *Email:
+                            <span class="signup-error signup-error-email"></span>
+                        </label>
+                        <input type="text" name="email" id="email">
+
+
+                        <label for="confirmEmail">
+                            <!-- <span class="required">*</span> -->
+                            *Confirm email:
+                            <span class="signup-error signup-error-confirm"></span>
+                        </label>
+                        <input type="text" name="Confirm-email" id="confirmEmail">
+
+
+                        <label for="membership-select">choose your membership:</label>
+                        <select name="tier" id="membership-select">
+                            <option value=""> "--please select--"</option>
+                            <option value="1">Silver Tier</option>
+                            <option value="2">Gold Tier</option>
+                            <option value="3">Platinum Tier</option>
+                        </select>
+                    </div>
+
+
+                    <div class="checkbox-form-style">
+                        <input type="checkbox" name="wants-spam" id="sendAnnoy" checked>
+                        <label for="send-annoy">Do you want us to send you annoying emails?</label>
+                    </div>
+                    <span class="signup-error signup-error-form"></span>
+                    <button type="submit" class="form-submit">Register</button>
+
+                </form>
+            </div>
+        </div>
+
+    </main>
+    <footer>
+        <nav class="footer-nav">
+            <ul class="footer-menu">
+                <li class="footer-menu-item">
+                    <a href="privacy.html" class="footer-link">
+                        &copy; 2024 Cat World, See our privacy policy
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+
+</body>
+
+</html>
