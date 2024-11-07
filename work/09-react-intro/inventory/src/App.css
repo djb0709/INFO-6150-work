@@ -42,4 +42,5 @@
 
 .order-btn:disabled {
   background-color: rgba(230, 230, 230, 0.3);
+  cursor: not-allowed;
 }

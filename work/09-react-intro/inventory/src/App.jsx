@@ -16,7 +16,7 @@ function App() {
         <button
           className="order-btn"
           onClick={() => {
-            setCount(!!count ? count - 1 : 0);
+            setCount(!!count ? (count) => count - 1 : 0);
           }}
           disabled={!count}
         >
@@ -25,7 +25,7 @@ function App() {
         <button
           className="order-btn"
           onClick={() => {
-            setCount(count + 1);
+            setCount((count) => count + 1);
           }}
         >
           +
