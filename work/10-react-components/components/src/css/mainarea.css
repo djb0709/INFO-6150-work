@@ -1,0 +1,7 @@
+.main {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 0.5rem;
+    padding: 1rem;
+    background-color: mintcream;
+}

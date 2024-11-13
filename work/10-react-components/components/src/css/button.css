@@ -1,0 +1,16 @@
+.button-link {
+    background: none;
+    cursor: pointer;
+    border: none;
+    color: blue;
+    font-size: 1rem;
+    text-decoration: underline;
+    line-height: 1.2rem;
+    height: auto;
+    padding: 1rem;
+}
+
+.button-link:hover {
+    color: purple;
+    background-color: aliceblue;
+}

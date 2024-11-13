@@ -1,0 +1,46 @@
+.site-header {
+
+    display: grid;
+
+    grid-template-areas:
+        "logo-container header-title"
+        "header-nav header-nav"
+    ;
+    grid-template-columns: 0.4fr auto;
+    gap: 0.5rem;
+
+    background-color: blanchedalmond;
+}
+
+.logo-container {
+    grid-area: logo-container;
+    margin: 0.5rem;
+}
+
+.logo-link {
+    display: inline-block;
+}
+
+.logo-img {
+    width: 100px;
+    height: 100px;
+    margin: 1rem 2rem;
+
+}
+
+.header-title {
+    grid-area: header-title;
+    align-self: center;
+}
+
+.header-nav {
+    grid-area: header-nav;
+
+    width: 100%;
+
+    box-shadow: 0 14px 6px rgba(0, 0, 0, 0.1);
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+footer {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+
+    width: 100%;
+
+    background-color: burlywood;
+}
+
+.footer-list {
+    height: auto;
+    grid-column: span 12;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+}
