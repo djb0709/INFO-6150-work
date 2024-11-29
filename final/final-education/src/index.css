@@ -1,0 +1,51 @@
+:root {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  --color-background: light-dark(#FDE8E9, #0D1B2A);
+  --color-primary: light-dark(#E3BAC6, #1B263B);
+  --color-secondary: light-dark(#BC9EC1, #415A77);
+  --color-accent: light-dark(#596475, #778DA9);
+  --color-text: light-dark(#333, #E0E1DD);
+
+  --small-space: 0.5rem;
+  --medium-space: 1rem;
+  --large-space: 2rem;
+}
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: var(--color-background);
+  color: var(--color-text);
+
+
+}
+
+
+
+html:has(#mode-switcher [value="light"]:checked) {
+  color-scheme: light;
+}
+
+html:has(#mode-switcher [value="dark"]:checked) {
+  color-scheme: dark;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+}

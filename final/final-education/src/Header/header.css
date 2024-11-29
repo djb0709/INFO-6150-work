@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-primary);
+}
+
+
+.header-top {
+    display: grid;
+    grid-template-columns: 0.1fr auto;
+    align-items: center;
+}
+
+.img-link {
+    width: 150px;
+    height: 150px;
+    margin: var(--small-space);
+}
+
+.logo-img {
+    width: 100%;
+    border-radius: 10rem;
+
+}

@@ -1,0 +1,12 @@
+1 favicon.svg
+--license: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+--url:https://fonts.google.com/icons?selected=Material+Symbols+Outlined:local_library:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=learn&icon.size=24&icon.color=%23c83c3c
+
+2 logo.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/illustrations/a-woman-in-a-graduation-gown-holding-a-diploma-82nfmEb6-Dk
+
+3 favicon.svg
+--license: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+--url:
+

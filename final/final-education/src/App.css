@@ -1,0 +1,10 @@
+#root {
+  text-align: center;
+  display: grid;
+  grid-template-rows: auto auto auto;
+  height: 100%;
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {}
