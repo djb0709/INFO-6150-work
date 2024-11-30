@@ -1,5 +1,5 @@
 import './App.css';
-import HomePage from './HomePage/Homepage';
+import HomePage from './HomePage/HomePage';
 import Courses from './Courses/Courses';
 import About from './About/About';
 import Header from './Header/Header';
@@ -48,7 +48,7 @@ function App() {
   return (
     <>
       <Header changePage={changePage} />
-      <main className='main' >
+      <main className='main' id='main' >
         {page === "/" && <HomePage />}
         {page === "/courses" && <Courses />}
         {page === "/about" && <About />}

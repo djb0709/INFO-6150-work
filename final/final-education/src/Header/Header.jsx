@@ -1,6 +1,6 @@
 import Nav from "../Nav/Nav";
 import './header.css';
-function Header({ changePage, setTheme, theme }) {
+function Header({ changePage }) {
 
 
     return (
@@ -8,7 +8,7 @@ function Header({ changePage, setTheme, theme }) {
             <header className="header">
                 <div className="header-top">
                     <a href="/" className="img-link">
-                        <img src="/logo.jpg" alt="" className="logo-img" />
+                        <img src="/logo.jpg" alt="a woman in growing graduation" className="logo-img" />
                     </a>
                     <h1 className="header-title">Welcome To Edu's World !</h1>
 

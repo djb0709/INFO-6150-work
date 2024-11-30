@@ -6,9 +6,12 @@
 
   color-scheme: light dark;
   --color-background: light-dark(#FDE8E9, #0D1B2A);
+  /* nav btn title */
   --color-primary: light-dark(#E3BAC6, #1B263B);
+  /* card  outline */
   --color-secondary: light-dark(#BC9EC1, #415A77);
   --color-accent: light-dark(#596475, #778DA9);
+  /* text */
   --color-text: light-dark(#333, #E0E1DD);
 
   --small-space: 0.5rem;
