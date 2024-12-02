@@ -1,6 +1,6 @@
 .header-nav {
     display: grid;
-    grid-template-columns: auto 0.2fr;
+    grid-template-columns: 0.2fr auto;
     align-items: center;
 
     border: 1px solid light-dark(rgba(106, 103, 103, 0.2), rgba(190, 190, 190, 0.2));
@@ -12,8 +12,8 @@
     justify-content: space-around;
 
     margin: 0;
+    padding-left: var(--small-space);
 
-    height: 100%;
     list-style-type: none;
 
 }
@@ -37,6 +37,15 @@
     text-decoration: underline;
 }
 
+.menu-item:focus-within {
+    background-color: var(--color-secondary);
+
+}
+
+.menu-item:focus-within a {
+    text-decoration: underline;
+}
+
 .menu-item a {
     display: flex;
     align-items: center;
@@ -48,6 +57,90 @@
 }
 
 .nav-svg {
-    font-size: 25px;
+    width: 1rem;
+    height: 1rem;
     fill: var(--color-text);
+}
+
+.switch-theme {
+    margin-left: var(--small-space);
+
+}
+
+.options {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.hamburger-menu {
+    display: none;
+
+}
+
+@media(max-width:50rem) {
+
+    .header-nav {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    .hamburger-menu {
+        display: flex;
+    }
+
+
+    .nav-menu {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+
+        opacity: 0;
+        height: 0;
+
+        width: 100%;
+        padding: 0;
+        margin-top: 0rem;
+
+        visibility: hidden;
+        transform: rotateX(90deg);
+        transform-origin: top;
+        border-top: 1px solid light-dark(rgba(106, 103, 103, 0.2), rgba(190, 190, 190, 0.2));
+        overflow: hidden;
+        background: var(--color-primary);
+
+
+    }
+
+    .nav-menu.open {
+        transform: rotateX(0deg);
+        visibility: visible;
+        opacity: 1;
+        height: initial;
+    }
+
+    .menu-item {
+        border-top: 1px solid light-dark(rgba(106, 103, 103, 0.2), rgba(190, 190, 190, 0.2));
+    }
+
+
+}
+
+@media (prefers-reduced-motion : no-preference) {
+    .nav-menu {
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .nav-menu.open {
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .hamburger-menu[aria-expanded=true] .hamburger-svg {
+        transform: rotate(90deg);
+        transition: transform 0.3s ease;
+    }
 }

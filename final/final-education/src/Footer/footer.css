@@ -6,13 +6,13 @@
 
     padding: var(--small-space) 0;
     background-color: var(--color-primary);
-    border: 1px solid light-dark(rgba(106, 103, 103, 0.2), rgba(190, 190, 190, 0.2));
-    box-shadow: 0 -6px 12px light-dark(rgba(0, 0, 0, 0.2), rgba(255, 255, 255, 0.2));
+    border: 1px solid var(--color-border);
+    box-shadow: 0 -6px 12px var(--color-shadow);
 }
 
 .copy {
     font-size: 0.75rem;
-    color: var(--color-accent);
+    color: var(--color-text);
     margin: 0 var(--medium-space);
 }
 

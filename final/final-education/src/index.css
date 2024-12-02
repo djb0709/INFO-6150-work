@@ -13,6 +13,14 @@
   --color-accent: light-dark(#596475, #778DA9);
   /* text */
   --color-text: light-dark(#333, #E0E1DD);
+  /* btn visual:btn */
+  --color-button-bg: light-dark(#f0a4a5, #675b7d);
+  --color-button-hover: light-dark(#c57c7e, #a497bc);
+
+  /* border */
+  --color-border: light-dark(rgba(106, 103, 103, 0.2), rgba(190, 190, 190, 0.2));
+  /* box-shadow */
+  --color-shadow: light-dark(rgba(0, 0, 0, 0.2), rgba(255, 255, 255, 0.2));
 
   --small-space: 0.5rem;
   --medium-space: 1rem;
@@ -31,6 +39,9 @@ body {
   margin: 0;
   padding: 0;
 
+  min-height: 100vh;
+  min-height: 100dvh;
+
   background-color: var(--color-background);
   color: var(--color-text);
 }
@@ -47,6 +58,8 @@ html:has(#mode-switcher [value="dark"]:checked) {
 
 @media (prefers-reduced-motion: no-preference) {
   html {
-    transition: background-color 0.3s ease, color 0.3s ease;
+    transition:
+      background-color 0.3s ease,
+      color 0.3s ease;
   }
 }
