@@ -7,6 +7,11 @@
   min-height: 100dvh;
 }
 
+.main {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: var(--small-space);
 
+}
 
 @media (prefers-reduced-motion: no-preference) {}

@@ -18,7 +18,7 @@ function Nav({ changePage }) {
                 </div>
 
                 <Button
-                    className='hamburger-menu'
+                    className='hamburger-menu button-blue'
                     visual='button'
                     onClick={() => { setMenuOpen(!menuOpen) }}
                     a11yLabel="toggle hamburger menu"

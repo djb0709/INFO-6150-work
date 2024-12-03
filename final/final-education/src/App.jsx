@@ -10,7 +10,7 @@ function App() {
 
 
   const path = document.location.pathname;
-  const [page, setPage] = useState(path);//current path
+  const [page, setPage] = useState(window.location.pathname);
 
 
 

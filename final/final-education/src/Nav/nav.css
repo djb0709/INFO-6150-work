@@ -60,6 +60,11 @@
     width: 1rem;
     height: 1rem;
     fill: var(--color-text);
+    /* 
+        prevent click the svg which leads to the state undefined
+        use this to ensure the event propagates to the ancestor <a>element
+    */
+    pointer-events: none;
 }
 
 .switch-theme {

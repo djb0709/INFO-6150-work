@@ -13,9 +13,6 @@
   --color-accent: light-dark(#596475, #778DA9);
   /* text */
   --color-text: light-dark(#333, #E0E1DD);
-  /* btn visual:btn */
-  --color-button-bg: light-dark(#f0a4a5, #675b7d);
-  --color-button-hover: light-dark(#c57c7e, #a497bc);
 
   /* border */
   --color-border: light-dark(rgba(106, 103, 103, 0.2), rgba(190, 190, 190, 0.2));

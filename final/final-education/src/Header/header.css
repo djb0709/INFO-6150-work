@@ -13,12 +13,14 @@
 }
 
 .img-link {
-    width: 150px;
-    height: 150px;
+    width: 125px;
+    height: 125px;
     margin: var(--small-space);
 }
 
 .logo-img {
+    width: 125px;
+    height: 125px;
     width: 100%;
     border-radius: 10rem;
 
