@@ -1,0 +1,17 @@
+.accordion-container {
+    grid-column: span 12;
+
+    display: grid;
+
+    grid-template-columns: repeat(12, 1fr);
+
+
+    gap: 1rem;
+    width: 100%;
+
+    margin: 0 auto;
+
+    padding: 1rem;
+
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

@@ -1,5 +1,5 @@
 import './nav.css';
-import Button from '../Button/Button';
+import Button from '../../Button/Button';
 import { useState } from 'react';
 function Nav({ changePage }) {
     const [menuOpen, setMenuOpen] = useState(false);

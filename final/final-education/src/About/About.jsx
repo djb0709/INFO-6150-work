@@ -1,9 +1,13 @@
+import './about.css';
+import Accordion from "./Accordion/Accordion";
 
+import dataFAQ from "../data/dataFAQ";
 function About() {
 
     return (
         <>
-            <p>this is about</p>
+            <Accordion data={dataFAQ}></Accordion>
+
         </>
     );
 }

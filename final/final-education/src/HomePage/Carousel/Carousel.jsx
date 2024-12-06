@@ -1,6 +1,6 @@
 import { useState } from "react";
 import './carousel.css';
-import Button from "../Button/Button";
+import Button from "../../Button/Button";
 function Carousel({ images }) {
     const [currentIndex, setCurrentIndex] = useState(0);
 

@@ -4,7 +4,7 @@ function Button({ disabled = false, className = '', type = 'button', visual = 'b
     let buttonClass = 'button';
     if (visual === 'link') {
         buttonClass = 'button-link';
-    } else if (visual = 'button') {
+    } else if (visual === 'button') {
         buttonClass = 'button-normal';
     }
     return (

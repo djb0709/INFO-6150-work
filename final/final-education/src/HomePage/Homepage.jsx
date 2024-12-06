@@ -1,5 +1,5 @@
 import Button from "../Button/Button";
-import Carousel from "../Carousel/Carousel";
+import Carousel from "./Carousel/Carousel";
 import carouselImages from "../data/carouselImages";
 import './homepage.css';
 function HomePage() {
