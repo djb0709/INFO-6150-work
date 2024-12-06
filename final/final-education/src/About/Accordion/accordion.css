@@ -71,7 +71,7 @@
 }
 
 
-.accordion-name .icon {
+.accordion-name .arrow-icon {
     font-size: 1.2rem;
 
     fill: #333;
@@ -83,12 +83,12 @@
 @media (max-width: 768px) {}
 
 @media (prefers-reduced-motion : no-preference) {
-    .accordion-item {
+    .accordion-item:hover {
         transform: translateY(-2px);
         transition: transform 0.3s ease;
     }
 
-    .accordion-name[aria-expanded="true"] .icon {
+    .accordion-name[aria-expanded="true"] .arrow-icon {
         transform: rotate(180deg);
         transition: transform 0.3s ease;
 
