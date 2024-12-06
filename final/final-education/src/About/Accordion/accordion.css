@@ -35,18 +35,21 @@
     align-items: center;
     justify-content: space-between;
     background-color: inherit;
+    color: inherit;
 
 }
 
 
 .accordion-name:hover {
     background-color: #f9f9f9;
+    color: #333;
 
 }
 
 
 .accordion-name[aria-expanded="true"] {
     background-color: #e6e6e6;
+    color: #333;
 }
 
 
