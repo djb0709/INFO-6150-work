@@ -7,7 +7,11 @@ function About() {
     return (
         <>
             <Accordion data={dataFAQ}></Accordion>
-
+            <p>aaa</p>
+            <p>aaa</p>
+            <p>aaa</p>
+            <p>aaa</p>
+            <p>aaa</p>
         </>
     );
 }
