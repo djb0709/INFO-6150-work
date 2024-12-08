@@ -10,9 +10,6 @@ function HomePage({ changePage }) {
         <>
             <Carousel images={carouselImages}></Carousel>
             <PopularCourses changePage={changePage}></PopularCourses>
-            <p>aaaa</p>
-            <p>aaaa</p>
-            <p>aaaa</p>
         </>
     );
 }
