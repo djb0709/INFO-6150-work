@@ -40,10 +40,10 @@ function Carousel({ images }) {
                     </div>
                 </div>
             ))}
-            <Button className='prev button-default' onClick={prevImg}>
+            <Button className='prev button-default' a11yLabel="previous" onClick={prevImg}>
                 《
             </Button>
-            <Button className='next button-default' onClick={nextImg}>
+            <Button className='next button-default' a11yLabel="next" onClick={nextImg}>
                 》
             </Button>
 

@@ -67,9 +67,47 @@
 --license: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
 --url:https://fonts.google.com/icons?selected=Material+Symbols+Outlined:arrow_downward:FILL@0;wght@400;GRAD@0;opsz@20&icon.size=16&icon.color=%23333
 
+13 courses-cloud-computing.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/diagram-TKAg3WignSw
+
+14 star.svg(in html)
+--code: <svg className='view-courses-svg' xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px">
+        <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z" />
+        </svg>
+--license: CC BY 4.0 License https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.
+--url:https://fontawesome.com/v6/icons/star?f=classic&s=solid&pc=%23FFD43B&sc=%23FFD43B
+
+15 courses-data-analytics.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+
+16 courses-machine-learning.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/red-and-blue-lights-from-tower-steel-wool-photography-Ype9sdOPdYc
+
+17 courses-web-development.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/black-flat-screen-computer-monitor-uo8Jfqdzs18
 
 
 
+
+15 courses-data-analytics.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+
+15 courses-data-analytics.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+
+15 courses-data-analytics.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+
+15 courses-data-analytics.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
 
 
 

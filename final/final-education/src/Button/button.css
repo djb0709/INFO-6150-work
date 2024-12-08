@@ -80,11 +80,19 @@ button {
     margin: 0;
     border-radius: 0;
     color: var(--color-text);
-    text-decoration: none;
+    text-decoration: underline;
+    background-color: transparent;
+    border: none;
 
 }
 
 .button-link:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    background-color: var(--color-secondary);
+}
+
+.button-link:focus-within {
+
+    text-decoration: none;
     background-color: var(--color-secondary);
 }

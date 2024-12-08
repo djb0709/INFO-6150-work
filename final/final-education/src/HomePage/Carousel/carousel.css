@@ -4,7 +4,7 @@
     position: relative;
     width: 100%;
     overflow: hidden;
-    margin: var(--medium-space) auto 0 auto;
+    margin: 0.2rem auto 0 auto;
     max-width: 1920px;
     height: auto;
     border: 1px solid var(--color-border);
@@ -82,7 +82,7 @@
     width: 0.75rem;
     height: 0.75rem;
     margin: 0 var(--small-space);
-    background-color: white;
+    background-color: #636363;
     border-radius: 50%;
 
     cursor: pointer;
@@ -90,7 +90,8 @@
 }
 
 .dot.active {
-    background-color: #636363;
+    background-color: white;
+
 }
 
 

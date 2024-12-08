@@ -10,7 +10,7 @@ function App() {
 
 
   const path = document.location.pathname;
-  const [page, setPage] = useState(window.location.pathname);
+  const [page, setPage] = useState(path);
 
 
 
@@ -49,7 +49,7 @@ function App() {
     <>
       <Header changePage={changePage} />
       <main className='main' id='main' >
-        {page === "/" && <HomePage />}
+        {page === "/" && <HomePage changePage={changePage} />}
         {page === "/courses" && <Courses />}
         {page === "/about" && <About />}
 

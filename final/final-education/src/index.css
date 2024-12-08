@@ -11,6 +11,7 @@
   /* card  outline */
   --color-secondary: light-dark(#BC9EC1, #415A77);
   --color-accent: light-dark(#596475, #778DA9);
+  --color-card: light-dark(#f5f3e1, #3d4756);
   /* text */
   --color-text: light-dark(#333, #E0E1DD);
 
