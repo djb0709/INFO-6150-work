@@ -90,24 +90,66 @@
 --license: Unsplash+ License https://unsplash.com/plus/license
 --url:https://unsplash.com/photos/black-flat-screen-computer-monitor-uo8Jfqdzs18
 
+18 courses-big-data.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/horizontal-no-people-shot-of-stock-and-currency-trading-agents-workspace-with-desktop-computers-and-various-monitors-in-modern-office-interior-Ur1VdGufVns
 
-
-
-15 courses-data-analytics.jpg
+19 courses-cybersecurity.jpg
 --license: Unsplash+ License https://unsplash.com/plus/license
 --url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
 
-15 courses-data-analytics.jpg
+20 courses-mobile-development.jpg
 --license: Unsplash+ License https://unsplash.com/plus/license
---url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+--url:https://unsplash.com/photos/ui-designer-drawing-website-ux-layout-app-development-1KOp1oWDe1A
 
-15 courses-data-analytics.jpg
+21 courses-cloud-infrastructure.jpg
 --license: Unsplash+ License https://unsplash.com/plus/license
---url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+--url:https://unsplash.com/photos/a-white-cloud-sitting-on-top-of-a-blue-circuit-board-92k84OkjQrw
 
-15 courses-data-analytics.jpg
+22 courses-python.jpg
 --license: Unsplash+ License https://unsplash.com/plus/license
---url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+--url:https://unsplash.com/photos/person-holding-sticky-note-D9Zow2REm8U
 
+23 courses-blockchain.jpg 
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/a-model-of-a-model-of-a-building--b_N6z90cHA
+
+24 courses-devops.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/a-close-up-of-a-car-key-72dRZHuYJWE
+
+25 courses-game-development.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/male-freelancer-working-on-machinery-construction-using-cad-engineering-software-on-computer-engineer-developing-engine-product-and-gears-model-with-manufactory-graphics-at-home-xu_s-GuDUao
+
+26 courses-ui-ux.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/a-man-sitting-at-a-desk-with-headphones-on-GZGWL8wFFuI
+
+27 courses-nlp.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/big-data-structure-concept-3d-render-sl0MIpjm-9w
+
+28 courses-ai-ethics.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/asimo-robot-doing-handsign-g29arbbvPjo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***prepare for future work***
+15 
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:
 
 

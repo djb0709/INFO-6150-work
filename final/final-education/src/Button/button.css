@@ -59,12 +59,12 @@ button {
 }
 
 .button-blue:hover {
-    background: #2196F3;
+    background: #0A6CBD;
     color: white;
 }
 
 .button-blue:focus-within {
-    background: #2196F3;
+    background: #0A6CBD;
     color: white;
 }
 

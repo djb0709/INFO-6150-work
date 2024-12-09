@@ -22,7 +22,7 @@
 }
 
 
-.course-card {
+.popular-courses .course-card {
     grid-column: span 5;
     margin: 2rem 0.5rem 0 0.5rem;
 }
@@ -68,8 +68,18 @@
     fill: var(--color-text);
 }
 
+.badge {
+    background-color: red;
+    display: inline-block;
+    margin-left: 0.1rem;
+    color: white;
+    padding: 0.2rem;
+    text-align: center;
+    border-radius: 5px;
+}
+
 @media (max-width: 50rem) {
-    .course-card {
+    .popular-courses .course-card {
         grid-column: span 10;
     }
 

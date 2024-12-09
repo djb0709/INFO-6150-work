@@ -9,7 +9,9 @@ function PopularCourses({ changePage }) {
 
     return (
         <div className='popular-courses'>
-            <h2 className='popular-courses-title'>Top rating courses</h2>
+            <h2 className='popular-courses-title'>Most popular courses
+                <span className="badge">Hot</span>
+            </h2>
 
             {popularCourses.map(course => (
                 <CourseCard

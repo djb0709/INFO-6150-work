@@ -1,0 +1,183 @@
+.filter {
+    grid-column: span 3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 0.3rem;
+    gap: 1.5rem;
+
+
+}
+
+
+
+
+.select-sort {
+    margin-right: var(--small-space);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.filter-categories {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+
+}
+
+
+
+
+.filter-level {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
+}
+
+.filter-categories-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.filter-level-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.courses {
+    margin: 1rem;
+    grid-column: span 9;
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.courses .course-card {
+    grid-column: span 1;
+}
+
+
+
+@media (max-width: 55rem) {
+
+    /* .courses {
+
+        grid-template-columns: repeat(2, 1fr);
+        grid-column: span 8;
+    }
+
+    .filter {
+        grid-column: span 4;
+    } */
+
+
+    .filter {
+        width: 100%;
+        margin-top: 0.5rem;
+        padding: 0.5rem 2rem;
+        grid-column: 2/span 10;
+        display: block;
+        border: 1px solid var(--color-border);
+        box-shadow: 0 6px 4px var(--color-shadow);
+
+    }
+
+    .courses {
+        grid-column: 2/span 10;
+    }
+
+
+
+    .filter-categories {
+
+        margin-top: 0.5rem;
+
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        justify-items: start;
+    }
+
+    .filter-categories-title {
+        grid-column: span 3;
+    }
+
+    .checbox-categories-container {
+        padding: 0.2rem;
+        grid-column: span 1;
+
+
+    }
+
+    .filter-level {
+
+        margin-top: 0.5rem;
+
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        justify-items: start;
+    }
+
+    .filter-level-title {
+        grid-column: span 3;
+    }
+
+    .checkbox-level-container {
+        padding: 0.2rem;
+        grid-column: span 1;
+
+    }
+
+    .courses {
+
+        grid-template-columns: repeat(1, 1fr);
+        gap: 2rem;
+
+    }
+
+    .courses .course-card {
+        grid-column: span 1;
+    }
+
+}
+
+@media (max-width: 44rem) {
+    .filter-categories {
+
+
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+    .filter-categories-title {
+        grid-column: span 2;
+    }
+
+
+}
+
+/* @media (max-width: 31rem) {
+    .courses {
+
+        grid-template-columns: auto;
+        grid-column: span 7;
+    }
+
+    .filter {
+        grid-column: span 5;
+    }
+
+
+} */
+
+@media (min-width: 1200px) {
+    .filter {
+        grid-column: 2/span 2;
+    }
+
+    .courses {
+        grid-column: 4/span 8;
+    }
+}

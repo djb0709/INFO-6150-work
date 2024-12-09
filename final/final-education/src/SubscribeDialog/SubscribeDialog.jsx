@@ -123,7 +123,14 @@ function SubscribeDialog({ id, open, onClose, onSubmit, isSubscribe, setIsSubscr
                 </select>
                 {!isSubscribe ? "" :
                     <div className='checkbox-unsubscribe'>
-                        <input type="checkbox" name="wants-unsubscribe" id={`confirm-unsubscribe${id}`} className='subscribe-field' />
+                        <input
+                            type="checkbox"
+                            name="wants-unsubscribe"
+                            id={`confirm-unsubscribe${id}`}
+                            checked={isChecked}
+                            className='subscribe-field'
+                            onChange={(e) => setIsChecked(e.target.checked)}
+                        />
                         <label htmlFor={`confirm-unsubscribe${id}`} className='subscribe-label'>
                             Do you want to unsubscribe from the excellent course?
 
