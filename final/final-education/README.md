@@ -77,7 +77,7 @@ Switch between a light or a dark theme that then applies to all "pages" in the S
 
 ## File Structure
 
-
+```
 1 src/
 2 │
 3 ├── About/
@@ -121,7 +121,7 @@ Switch between a light or a dark theme that then applies to all "pages" in the S
 42 ├── App.css
 43 ├── main.jsx
 44 └── index.css
-
+```
 ### The file structure of this website is organized by functionality and mainly includes three pages (main,courses, about) and several components, among which SubscribeDialog, Header, Footer, and Button are functional across multiple pages.
 
 
