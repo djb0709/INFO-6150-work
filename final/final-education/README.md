@@ -131,7 +131,7 @@ Switch between a light or a dark theme that then applies to all "pages" in the S
 ## Accessibility
 
 ### LightHouse
-Performance 74, Accessibility 100, Best Practices 100, SEO 92
+Performance 88, Accessibility 100, Best Practices 100, SEO 92
 ### Wave
 ##### All images and icons are sourced under appropriate licenses. See license.txt for detailed attribution.
 

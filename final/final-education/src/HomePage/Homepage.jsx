@@ -1,6 +1,6 @@
 import Carousel from "./Carousel/Carousel";
 import carouselImages from "../data/carouselImages";
-import './homepage.css';
+
 import PopularCourses from "./PopularCourses/PopularCourses";
 function HomePage({ changePage }) {
 
