@@ -1,0 +1,155 @@
+1 favicon.svg
+--license: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+--url:https://fonts.google.com/icons?selected=Material+Symbols+Outlined:local_library:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=learn&icon.size=24&icon.color=%23c83c3c
+
+2 logo.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/illustrations/a-woman-in-a-graduation-gown-holding-a-diploma-82nfmEb6-Dk
+
+3 LinkedIn.jpg(in html)
+--code: <svg className='social-svg' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" >
+        <path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" />
+        </svg>
+--license: CC BY 4.0 License https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.
+--url:https://fontawesome.com/icons/linkedin?f=brands&s=solid
+
+4 Github.svg(in html)
+--code: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path d="M448 96c0-35.3-28.7-64-64-64H64C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96zM265.8 407.7c0-1.8 0-6 .1-11.6c.1-11.4 .1-28.8 .1-43.7c0-15.6-5.2-25.5-11.3-30.7c37-4.1 76-9.2 76-73.1c0-18.2-6.5-27.3-17.1-39c1.7-4.3 7.4-22-1.7-45c-13.9-4.3-45.7 17.9-45.7 17.9c-13.2-3.7-27.5-5.6-41.6-5.6s-28.4 1.9-41.6 5.6c0 0-31.8-22.2-45.7-17.9c-9.1 22.9-3.5 40.6-1.7 45c-10.6 11.7-15.6 20.8-15.6 39c0 63.6 37.3 69 74.3 73.1c-4.8 4.3-9.1 11.7-10.6 22.3c-9.5 4.3-33.8 11.7-48.3-13.9c-9.1-15.8-25.5-17.1-25.5-17.1c-16.2-.2-1.1 10.2-1.1 10.2c10.8 5 18.4 24.2 18.4 24.2c9.7 29.7 56.1 19.7 56.1 19.7c0 9 .1 21.7 .1 30.6c0 4.8 .1 8.6 .1 10c0 4.3-3 9.5-11.5 8C106 393.6 59.8 330.8 59.8 257.4c0-91.8 70.2-161.5 162-161.5s166.2 69.7 166.2 161.5c.1 73.4-44.7 136.3-110.7 158.3c-8.4 1.5-11.5-3.7-11.5-8zm-90.5-54.8c-.2-1.5 1.1-2.8 3-3.2c1.9-.2 3.7 .6 3.9 1.9c.3 1.3-1 2.6-3 3c-1.9 .4-3.7-.4-3.9-1.7zm-9.1 3.2c-2.2 .2-3.7-.9-3.7-2.4c0-1.3 1.5-2.4 3.5-2.4c1.9-.2 3.7 .9 3.7 2.4c0 1.3-1.5 2.4-3.5 2.4zm-14.3-2.2c-1.9-.4-3.2-1.9-2.8-3.2s2.4-1.9 4.1-1.5c2 .6 3.3 2.1 2.8 3.4c-.4 1.3-2.4 1.9-4.1 1.3zm-12.5-7.3c-1.5-1.3-1.9-3.2-.9-4.1c.9-1.1 2.8-.9 4.3 .6c1.3 1.3 1.8 3.3 .9 4.1c-.9 1.1-2.8 .9-4.3-.6zm-8.5-10c-1.1-1.5-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3c1.1 1.5 1.1 3.3 0 4.1c-.9 .6-2.6 0-3.7-1.5zm-6.3-8.8c-1.1-1.3-1.3-2.8-.4-3.5c.9-.9 2.4-.4 3.5 .6c1.1 1.3 1.3 2.8 .4 3.5c-.9 .9-2.4 .4-3.5-.6zm-6-6.4c-1.3-.6-1.9-1.7-1.5-2.6c.4-.6 1.5-.9 2.8-.4c1.3 .7 1.9 1.8 1.5 2.6c-.4 .9-1.7 1.1-2.8 .4z"/>
+        </svg>
+--license: CC BY 4.0 License https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.
+--url:https://fontawesome.com/icons/square-github?f=brands&s=solid
+
+5 Facebook.svg(in html)
+--code: <svg className='social-svg' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64h98.2V334.2H109.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H255V480H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64z" />
+        </svg>
+--license: CC BY 4.0 License https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.
+--url:https://fontawesome.com/icons/square-facebook?f=brands&s=solid
+
+6 Home.svg(in html)
+--code: <svg xmlns="http://www.w3.org/2000/svg" className='nav-svg' height="20px" viewBox="0 -960 960 960" width="20px" >
+        <path d="M264-216h96v-240h240v240h96v-348L480-726 264-564v348Zm-72 72v-456l288-216 288 216v456H528v-240h-96v240H192Zm288-327Z" />
+        </svg>
+--license: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+--url:https://fonts.google.com/icons?selected=Material+Symbols+Outlined:home:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%23333
+
+7 Courses.svg(in html)
+--code: <svg xmlns="http://www.w3.org/2000/svg" className='nav-svg' height="20px" viewBox="0 -960 960 960" width="20px">
+        <path d="M384-192q-40.01 0-68.51-28Q287-248 288-288v-72h96v-65.54q-29-1.46-52.5-10.96T288-464v-64h-64L72-672q38-38 89-58t105-20q31.15 0 60.58 8Q356-734 384-720v-48h432v480q0 40-28 68t-68 28H384Zm72-168h216v60q0 15.3 10.29 25.65Q692.58-264 707.79-264t25.71-10.35Q744-284.7 744-300v-396H456v27l216 216.49V-402h-51L521-503l-34 35q-6.84 6.61-14.42 11.81Q465-451 456-446.04V-360ZM253-600h107v97q5.77 2.29 12.02 3.14 6.25.86 12.98.86 14 0 27-5t24-16l33-33-67-68q-27-27-62.5-41.5T266-677q-20.36 0-38.68 3.5T191-662l62 62Zm347 312H360q0 8 4.5 16t18.5 8h223q-2-6-3.5-12t-2.5-12Zm-240 0v24-24Z" />
+        </svg>
+--license: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+--url:https://fonts.google.com/icons?selected=Material+Symbols+Outlined:history_edu:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%23333&icon.query=educa
+
+8 About.svg(in html)
+--code: <svg xmlns="http://www.w3.org/2000/svg" className='nav-svg' height="20px" viewBox="0 -960 960 960" width="20px" >
+        <path d="M480-240q20 0 34-14t14-34q0-20-14-34t-34-14q-20 0-34 14t-14 34q0 20 14 34t34 14Zm-36-153h73q0-37 6.5-52.5T555-485q35-34 48.5-58t13.5-53q0-55-37.5-89.5T484-720q-51 0-88.5 27T343-620l65 27q9-28 28.5-43.5T482-652q28 0 46 16t18 42q0 23-15.5 41T496-518q-35 32-43.5 52.5T444-393Zm36 297q-79 0-149-30t-122.5-82.5Q156-261 126-331T96-480q0-80 30-149.5t82.5-122Q261-804 331-834t149-30q80 0 149.5 30t122 82.5Q804-699 834-629.5T864-480q0 79-30 149t-82.5 122.5Q699-156 629.5-126T480-96Zm0-72q130 0 221-91t91-221q0-130-91-221t-221-91q-130 0-221 91t-91 221q0 130 91 221t221 91Zm0-312Z" />
+        </svg>
+--license: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+--url:https://fonts.google.com/icons?selected=Material+Symbols+Outlined:help:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%23333&icon.query=question
+
+9 Carousel-1-larger.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/person-holding-blue-and-pink-box-WGG4eD0rQmo
+
+10 Carousel-2-larger.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-EeS69TTPQ18
+
+11 Carousel-3-larger.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/person-holding-ballpoint-pen-writing-on-notebook-505eectW54k
+
+12 arrow-icon(in html)
+--code:  <svg className="arrow-icon" xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -960 960 960" width="16px" >
+         <path d="M444-768v438L243-531l-51 51 288 288 288-288-51-51-201 201v-438h-72Z" />            
+         </svg>
+--license: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+--url:https://fonts.google.com/icons?selected=Material+Symbols+Outlined:arrow_downward:FILL@0;wght@400;GRAD@0;opsz@20&icon.size=16&icon.color=%23333
+
+13 courses-cloud-computing.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/diagram-TKAg3WignSw
+
+14 star.svg(in html)
+--code: <svg className='view-courses-svg' xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px">
+        <path d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z" />
+        </svg>
+--license: CC BY 4.0 License https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.
+--url:https://fontawesome.com/v6/icons/star?f=classic&s=solid&pc=%23FFD43B&sc=%23FFD43B
+
+15 courses-data-analytics.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+
+16 courses-machine-learning.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/red-and-blue-lights-from-tower-steel-wool-photography-Ype9sdOPdYc
+
+17 courses-web-development.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/black-flat-screen-computer-monitor-uo8Jfqdzs18
+
+18 courses-big-data.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/horizontal-no-people-shot-of-stock-and-currency-trading-agents-workspace-with-desktop-computers-and-various-monitors-in-modern-office-interior-Ur1VdGufVns
+
+19 courses-cybersecurity.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/graphical-user-interface--WXQm_NTK0U
+
+20 courses-mobile-development.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/ui-designer-drawing-website-ux-layout-app-development-1KOp1oWDe1A
+
+21 courses-cloud-infrastructure.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/a-white-cloud-sitting-on-top-of-a-blue-circuit-board-92k84OkjQrw
+
+22 courses-python.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/person-holding-sticky-note-D9Zow2REm8U
+
+23 courses-blockchain.jpg 
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/a-model-of-a-model-of-a-building--b_N6z90cHA
+
+24 courses-devops.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/a-close-up-of-a-car-key-72dRZHuYJWE
+
+25 courses-game-development.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/male-freelancer-working-on-machinery-construction-using-cad-engineering-software-on-computer-engineer-developing-engine-product-and-gears-model-with-manufactory-graphics-at-home-xu_s-GuDUao
+
+26 courses-ui-ux.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/a-man-sitting-at-a-desk-with-headphones-on-GZGWL8wFFuI
+
+27 courses-nlp.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/big-data-structure-concept-3d-render-sl0MIpjm-9w
+
+28 courses-ai-ethics.jpg
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:https://unsplash.com/photos/asimo-robot-doing-handsign-g29arbbvPjo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***prepare for future work***
+15 
+--license: Unsplash+ License https://unsplash.com/plus/license
+--url:
+
+

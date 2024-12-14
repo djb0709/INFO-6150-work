@@ -1,0 +1,98 @@
+:root {
+    /* btn visual:btn */
+    --color-button-bg: white;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: var(--medium-space);
+
+    background-color: var(--color-button-bg);
+    border: 2px solid light-dark(black, white);
+    border-radius: 0.3rem;
+    cursor: pointer;
+
+    font-family: inherit;
+    font-size: 1rem;
+
+}
+
+/* gray */
+.button-normal {
+    border-color: #e7e7e7;
+    color: black;
+}
+
+.button-normal:hover {
+    background: #e7e7e7;
+}
+
+.button-normal:focus-within {
+    background: #e7e7e7;
+}
+
+/* green */
+.button-green {
+
+    border-color: #04AA6D;
+    color: green;
+}
+
+.button-green:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.button-green:focus-within {
+    background-color: #04AA6D;
+    color: white;
+}
+
+/* blue */
+
+.button-blue {
+    border-color: #2196F3;
+    color: #00359E;
+}
+
+.button-blue:hover {
+    background: #0A6CBD;
+    color: white;
+}
+
+.button-blue:focus-within {
+    background: #0A6CBD;
+    color: white;
+}
+
+/* .button-normal:disabled {
+    background-color: var(--color-accent);
+    cursor: not-allowed;
+    opacity: 0.5;
+} */
+
+
+.button-link {
+
+    margin: 0;
+    border-radius: 0;
+    color: var(--color-text);
+    text-decoration: underline;
+    background-color: transparent;
+    border: none;
+
+}
+
+.button-link:hover {
+    text-decoration: none;
+    background-color: var(--color-secondary);
+}
+
+.button-link:focus-within {
+
+    text-decoration: none;
+    background-color: var(--color-secondary);
+}

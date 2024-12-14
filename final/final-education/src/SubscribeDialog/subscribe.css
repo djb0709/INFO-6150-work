@@ -1,0 +1,103 @@
+.subscribe-dialog {
+    width: 100%;
+    max-width: 400px;
+
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 6px 12px var(--color-shadow);
+
+    padding: var(--large-space);
+
+    background: light-dark(white, #1e1e2f);
+    font-family: Arial, sans-serif;
+    color: var(--color-text);
+}
+
+.subscribe-dialog::backdrop {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+
+    border: none;
+    border-radius: 0.5rem;
+    color: #333;
+    background: #66D1FF;
+
+    padding: 0.8rem 1.2rem;
+
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.dialog-title {
+
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.subscribe-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.subscribe-label {
+    font-size: 0.9rem;
+    color: var(--color-text);
+    align-self: flex-start;
+    font-size: 1rem;
+}
+
+.subscribe-field {
+    width: 100%;
+    padding: var(--small-space);
+    font-size: 1rem;
+
+    border: none;
+    border-radius: 0.5rem;
+    background: light-dark(#cccbcb, #2a2a3d);
+    color: var(--color-text);
+
+
+}
+
+
+
+
+.form-submit {
+    color: #333;
+    background: #66D1FF;
+    font-weight: bold;
+}
+
+.form-submit:hover {
+    background: #008fcc;
+}
+
+.form-submit:focus-within {
+    background: #008fcc;
+}
+
+.checkbox-unsubscribe {
+    display: grid;
+    grid-template-columns: 0.1fr auto;
+    align-items: center;
+    justify-items: center;
+    font-size: 0.85rem;
+}
+
+.checkbox-unsubscribe input[type="checkbox"] {
+
+    accent-color: #66D1FF;
+}
+
+.error-message {
+    color: light-dark(#004FA3, #FFAE00);
+    font-size: 0.85rem;
+    margin-left: 0.5rem;
+    display: inline-block;
+}

@@ -1,0 +1,17 @@
+#root {
+  text-align: center;
+  display: grid;
+  grid-template-rows: 0.2fr auto 0.2fr;
+  height: 100%;
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: var(--small-space);
+  margin-bottom: 3rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {}
